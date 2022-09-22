@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 namespace Polymorfism
 {
     public class Rectangle : Shape {
-        public Rectangle(int width, int height) : base( width, height) {
+        public Rectangle(int width, int height) : base( width, height) { //Takes width and height as peramaters, than sends them back to shape
 
         }   
         public override void Circumferance() {

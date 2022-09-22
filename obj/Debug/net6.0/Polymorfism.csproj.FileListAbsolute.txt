@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Uniti-intro-main\Polymorfism\bin\Debug\net6.0\Polymorfism.exe
+C:\Users\Admin\Desktop\Uniti-intro-main\Polymorfism\bin\Debug\net6.0\Polymorfism.deps.json
+C:\Users\Admin\Desktop\Uniti-intro-main\Polymorfism\bin\Debug\net6.0\Polymorfism.runtimeconfig.json
+C:\Users\Admin\Desktop\Uniti-intro-main\Polymorfism\bin\Debug\net6.0\Polymorfism.dll
+C:\Users\Admin\Desktop\Uniti-intro-main\Polymorfism\bin\Debug\net6.0\Polymorfism.pdb
+C:\Users\Admin\Desktop\Uniti-intro-main\Polymorfism\obj\Debug\net6.0\Polymorfism.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Uniti-intro-main\Polymorfism\obj\Debug\net6.0\Polymorfism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Uniti-intro-main\Polymorfism\obj\Debug\net6.0\Polymorfism.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Uniti-intro-main\Polymorfism\obj\Debug\net6.0\Polymorfism.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Uniti-intro-main\Polymorfism\obj\Debug\net6.0\Polymorfism.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Uniti-intro-main\Polymorfism\obj\Debug\net6.0\Polymorfism.dll
+C:\Users\Admin\Desktop\Uniti-intro-main\Polymorfism\obj\Debug\net6.0\refint\Polymorfism.dll
+C:\Users\Admin\Desktop\Uniti-intro-main\Polymorfism\obj\Debug\net6.0\Polymorfism.pdb
+C:\Users\Admin\Desktop\Uniti-intro-main\Polymorfism\obj\Debug\net6.0\Polymorfism.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Uniti-intro-main\Polymorfism\obj\Debug\net6.0\ref\Polymorfism.dll
