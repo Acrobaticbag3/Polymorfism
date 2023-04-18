@@ -9,12 +9,12 @@ namespace Polymorfism {
             
         }
         public override void Circumferance() {
-            int circumferance = width * 2 + height * 2;
+            int circumferance = _width * 2 + _height * 2;
             Console.WriteLine("the circumferance of this triangle is: " + circumferance);
         }
 
         public override void Area() {
-            int area = width * height / 2;
+            int area = _width * _height / 2;
             Console.WriteLine("The area of this triangle is: " + area);
         }
     }

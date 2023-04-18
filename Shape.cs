@@ -5,12 +5,12 @@ using System.Threading.Tasks;
 
 namespace Polymorfism {
     public class Shape {
-        protected int width;
-        protected int height;
+        protected int _width;
+        protected int _height;
 
         public Shape(int width, int height) {
-            this.width = width;
-            this.height = height;
+            this._width = width;
+            this._height = height;
         }
 
         public virtual void Circumferance() {

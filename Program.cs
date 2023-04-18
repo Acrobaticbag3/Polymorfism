@@ -78,6 +78,7 @@ namespace Polymorfism {
                     i = 0; //Continues the loop
                 }
             }
+            Console.ReadKey();
         }
     }
 }
